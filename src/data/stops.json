@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name": "Flag",
+    "lat": 42.2378495,
+    "lng": 42.6922685
+  },
+  {
+    "id": 2,
+    "name": "Youth Park",
+    "lat": 42.2515656,
+    "lng": 42.6830123
+  },
+  {
+    "id": 3,
+    "name": "Youth Park",
+    "lat": 42.2521687,
+    "lng": 42.6823177
+  },
+  {
+    "id": 4,
+    "name": "Pirosmani",
+    "lat": 42.2543538,
+    "lng": 42.6773689
+  },
+  {
+    "id": 5,
+    "name": "Pirosmani",
+    "lat": 42.2545579,
+    "lng": 42.6763278
+  },
+  {
+    "id": 6,
+    "name": "Kutaisi - Batumi",
+    "lat": 42.2564489,
+    "lng": 42.6704458
+  },
+  {
+    "id": 7,
+    "name": "Kutaisi 2",
+    "lat": 42.2566853,
+    "lng": 42.6721041
+  },
+  {
+    "id": 8,
+    "name": "Buses to the Airport",
+    "lat": 42.2573287,
+    "lng": 42.6706293
+  },
+  {
+    "id": 9,
+    "name": "Chavchavadze Square",
+    "lat": 42.257919,
+    "lng": 42.6678565
+  },
+  {
+    "id": 10,
+    "name": "Chavchavadze Square",
+    "lat": 42.2586387,
+    "lng": 42.6687667
+  },
+  {
+    "id": 11,
+    "name": "School #12",
+    "lat": 42.2590536,
+    "lng": 42.7090258
+  },
+  {
+    "id": 12,
+    "name": "Shartava",
+    "lat": 42.2604441,
+    "lng": 42.671281
+  },
+  {
+    "id": 13,
+    "name": "Shartava",
+    "lat": 42.2606407,
+    "lng": 42.6720746
+  },
+  {
+    "id": 14,
+    "name": "Asatiani-Tabidze",
+    "lat": 42.2613143,
+    "lng": 42.6987136
+  },
+  {
+    "id": 15,
+    "name": "Train Station",
+    "lat": 42.2614042,
+    "lng": 42.7118724
+  },
+  {
+    "id": 16,
+    "name": "21st School",
+    "lat": 42.2615152,
+    "lng": 42.6904007
+  },
+  {
+    "id": 17,
+    "name": "Aghmashenebeli Bridge",
+    "lat": 42.2615478,
+    "lng": 42.7031826
+  },
+  {
+    "id": 18,
+    "name": "Garden of Glory",
+    "lat": 42.2615494,
+    "lng": 42.6933029
+  },
+  {
+    "id": 19,
+    "name": "Autonomy",
+    "lat": 42.2616129,
+    "lng": 42.6827042
+  },
+  {
+    "id": 20,
+    "name": "Balakhvani",
+    "lat": 42.2616839,
+    "lng": 42.7076454
+  },
+  {
+    "id": 21,
+    "name": "Nutsubidze",
+    "lat": 42.2616854,
+    "lng": 42.6788954
+  },
+  {
+    "id": 22,
+    "name": "Blue Tabla",
+    "lat": 42.2616961,
+    "lng": 42.6756845
+  },
+  {
+    "id": 23,
+    "name": "Parliament",
+    "lat": 42.2623788,
+    "lng": 42.6608722
+  },
+  {
+    "id": 24,
+    "name": "Garden of Glory",
+    "lat": 42.2624471,
+    "lng": 42.6931359
+  },
+  {
+    "id": 25,
+    "name": "Blue Tabla",
+    "lat": 42.2624986,
+    "lng": 42.6750814
+  },
+  {
+    "id": 26,
+    "name": "Public Service Hall",
+    "lat": 42.2632024,
+    "lng": 42.6663483
+  },
+  {
+    "id": 27,
+    "name": "Suliko",
+    "lat": 42.263433,
+    "lng": 42.6716566
+  },
+  {
+    "id": 28,
+    "name": "Chechelashvili",
+    "lat": 42.2638181,
+    "lng": 42.6988033
+  },
+  {
+    "id": 29,
+    "name": "Minerals Institute",
+    "lat": 42.2638212,
+    "lng": 42.6732594
+  },
+  {
+    "id": 30,
+    "name": "University",
+    "lat": 42.2645013,
+    "lng": 42.7088814
+  },
+  {
+    "id": 31,
+    "name": "Bukhaidze",
+    "lat": 42.2649892,
+    "lng": 42.6740453
+  },
+  {
+    "id": 32,
+    "name": "Tortladze",
+    "lat": 42.2664184,
+    "lng": 42.689093
+  },
+  {
+    "id": 33,
+    "name": "Music School",
+    "lat": 42.2665935,
+    "lng": 42.7044078
+  },
+  {
+    "id": 34,
+    "name": "Victory Square",
+    "lat": 42.2666951,
+    "lng": 42.6830868
+  },
+  {
+    "id": 35,
+    "name": "Parnavaz Mepe",
+    "lat": 42.2667066,
+    "lng": 42.688071
+  },
+  {
+    "id": 36,
+    "name": "Victory Square",
+    "lat": 42.2668292,
+    "lng": 42.6853193
+  },
+  {
+    "id": 37,
+    "name": "Aslanikashvili Square",
+    "lat": 42.2668927,
+    "lng": 42.6932158
+  },
+  {
+    "id": 38,
+    "name": "Auli Galaevi-Nizharadze",
+    "lat": 42.267087,
+    "lng": 42.6982343
+  },
+  {
+    "id": 39,
+    "name": "Revenue Service",
+    "lat": 42.267323,
+    "lng": 42.6837104
+  },
+  {
+    "id": 40,
+    "name": "Grishashvili-Dumbadze",
+    "lat": 42.2676668,
+    "lng": 42.6955534
+  },
+  {
+    "id": 41,
+    "name": "Oghaskura",
+    "lat": 42.2680523,
+    "lng": 42.6742294
+  },
+  {
+    "id": 42,
+    "name": "Korkia Street",
+    "lat": 42.2681901,
+    "lng": 42.7063847
+  },
+  {
+    "id": 43,
+    "name": "Circular Bus",
+    "lat": 42.2682042,
+    "lng": 42.7160687
+  },
+  {
+    "id": 44,
+    "name": "Tskhinvali",
+    "lat": 42.2683456,
+    "lng": 42.6803627
+  },
+  {
+    "id": 45,
+    "name": "Oncology Center",
+    "lat": 42.2693019,
+    "lng": 42.6676642
+  },
+  {
+    "id": 46,
+    "name": "Chonkadze",
+    "lat": 42.2695201,
+    "lng": 42.6764594
+  },
+  {
+    "id": 47,
+    "name": "Ice Palace",
+    "lat": 42.2700327,
+    "lng": 42.6747354
+  },
+  {
+    "id": 48,
+    "name": "Karvasla",
+    "lat": 42.2701527,
+    "lng": 42.7047245
+  },
+  {
+    "id": 49,
+    "name": "Tourist Information",
+    "lat": 42.2705998,
+    "lng": 42.700077
+  },
+  {
+    "id": 50,
+    "name": "Bus 30 to Tskaltubo",
+    "lat": 42.2711582,
+    "lng": 42.6986783
+  },
+  {
+    "id": 51,
+    "name": "Aghmashenebeli Square",
+    "lat": 42.2713461,
+    "lng": 42.7049632
+  },
+  {
+    "id": 52,
+    "name": "Paliashvli",
+    "lat": 42.2715892,
+    "lng": 42.700838
+  },
+  {
+    "id": 53,
+    "name": "Banoja",
+    "lat": 42.2795659,
+    "lng": 42.665277
+  },
+  {
+    "id": 54,
+    "name": "18th street",
+    "lat": 42.2833549,
+    "lng": 42.6641672
+  }
+]

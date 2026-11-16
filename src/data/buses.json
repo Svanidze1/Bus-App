@@ -1,0 +1,302 @@
+[
+  {
+    "id": 101,
+    "route_id": 1,
+    "startPathIndex": 0
+  },
+  {
+    "id": 102,
+    "route_id": 1,
+    "startPathIndex": 37
+  },
+  {
+    "id": 103,
+    "route_id": 1,
+    "startPathIndex": 74
+  },
+  {
+    "id": 104,
+    "route_id": 1,
+    "startPathIndex": 111
+  },
+  {
+    "id": 105,
+    "route_id": 2,
+    "startPathIndex": 0
+  },
+  {
+    "id": 106,
+    "route_id": 2,
+    "startPathIndex": 106
+  },
+  {
+    "id": 107,
+    "route_id": 2,
+    "startPathIndex": 212
+  },
+  {
+    "id": 108,
+    "route_id": 2,
+    "startPathIndex": 318
+  },
+  {
+    "id": 109,
+    "route_id": 3,
+    "startPathIndex": 0
+  },
+  {
+    "id": 110,
+    "route_id": 3,
+    "startPathIndex": 27
+  },
+  {
+    "id": 111,
+    "route_id": 3,
+    "startPathIndex": 55
+  },
+  {
+    "id": 112,
+    "route_id": 3,
+    "startPathIndex": 83
+  },
+  {
+    "id": 113,
+    "route_id": 4,
+    "startPathIndex": 0
+  },
+  {
+    "id": 114,
+    "route_id": 4,
+    "startPathIndex": 103
+  },
+  {
+    "id": 115,
+    "route_id": 4,
+    "startPathIndex": 207
+  },
+  {
+    "id": 116,
+    "route_id": 4,
+    "startPathIndex": 310
+  },
+  {
+    "id": 117,
+    "route_id": 5,
+    "startPathIndex": 0
+  },
+  {
+    "id": 118,
+    "route_id": 5,
+    "startPathIndex": 66
+  },
+  {
+    "id": 119,
+    "route_id": 5,
+    "startPathIndex": 132
+  },
+  {
+    "id": 120,
+    "route_id": 5,
+    "startPathIndex": 198
+  },
+  {
+    "id": 121,
+    "route_id": 6,
+    "startPathIndex": 0
+  },
+  {
+    "id": 122,
+    "route_id": 6,
+    "startPathIndex": 40
+  },
+  {
+    "id": 123,
+    "route_id": 6,
+    "startPathIndex": 80
+  },
+  {
+    "id": 124,
+    "route_id": 6,
+    "startPathIndex": 120
+  },
+  {
+    "id": 125,
+    "route_id": 7,
+    "startPathIndex": 0
+  },
+  {
+    "id": 126,
+    "route_id": 7,
+    "startPathIndex": 70
+  },
+  {
+    "id": 127,
+    "route_id": 7,
+    "startPathIndex": 141
+  },
+  {
+    "id": 128,
+    "route_id": 7,
+    "startPathIndex": 211
+  },
+  {
+    "id": 129,
+    "route_id": 8,
+    "startPathIndex": 0
+  },
+  {
+    "id": 130,
+    "route_id": 8,
+    "startPathIndex": 60
+  },
+  {
+    "id": 131,
+    "route_id": 8,
+    "startPathIndex": 120
+  },
+  {
+    "id": 132,
+    "route_id": 8,
+    "startPathIndex": 180
+  },
+  {
+    "id": 133,
+    "route_id": 9,
+    "startPathIndex": 0
+  },
+  {
+    "id": 134,
+    "route_id": 9,
+    "startPathIndex": 66
+  },
+  {
+    "id": 135,
+    "route_id": 9,
+    "startPathIndex": 132
+  },
+  {
+    "id": 136,
+    "route_id": 9,
+    "startPathIndex": 198
+  },
+  {
+    "id": 137,
+    "route_id": 10,
+    "startPathIndex": 0
+  },
+  {
+    "id": 138,
+    "route_id": 10,
+    "startPathIndex": 89
+  },
+  {
+    "id": 139,
+    "route_id": 10,
+    "startPathIndex": 179
+  },
+  {
+    "id": 140,
+    "route_id": 10,
+    "startPathIndex": 268
+  },
+  {
+    "id": 141,
+    "route_id": 11,
+    "startPathIndex": 0
+  },
+  {
+    "id": 142,
+    "route_id": 11,
+    "startPathIndex": 86
+  },
+  {
+    "id": 143,
+    "route_id": 11,
+    "startPathIndex": 173
+  },
+  {
+    "id": 144,
+    "route_id": 11,
+    "startPathIndex": 260
+  },
+  {
+    "id": 145,
+    "route_id": 12,
+    "startPathIndex": 0
+  },
+  {
+    "id": 146,
+    "route_id": 12,
+    "startPathIndex": 119
+  },
+  {
+    "id": 147,
+    "route_id": 12,
+    "startPathIndex": 238
+  },
+  {
+    "id": 148,
+    "route_id": 12,
+    "startPathIndex": 357
+  },
+  {
+    "id": 149,
+    "route_id": 13,
+    "startPathIndex": 0
+  },
+  {
+    "id": 150,
+    "route_id": 13,
+    "startPathIndex": 99
+  },
+  {
+    "id": 151,
+    "route_id": 13,
+    "startPathIndex": 199
+  },
+  {
+    "id": 152,
+    "route_id": 13,
+    "startPathIndex": 299
+  },
+  {
+    "id": 153,
+    "route_id": 14,
+    "startPathIndex": 0
+  },
+  {
+    "id": 154,
+    "route_id": 14,
+    "startPathIndex": 66
+  },
+  {
+    "id": 155,
+    "route_id": 14,
+    "startPathIndex": 132
+  },
+  {
+    "id": 156,
+    "route_id": 14,
+    "startPathIndex": 198
+  },
+  {
+    "id": 157,
+    "route_id": 15,
+    "startPathIndex": 0
+  },
+  {
+    "id": 158,
+    "route_id": 15,
+    "startPathIndex": 77
+  },
+  {
+    "id": 159,
+    "route_id": 15,
+    "startPathIndex": 155
+  },
+  {
+    "id": 160,
+    "route_id": 15,
+    "startPathIndex": 233
+  }
+]
